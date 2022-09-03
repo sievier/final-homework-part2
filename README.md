@@ -1,1 +1,3 @@
 # final-homework-part2
+爬虫爬取数据后的kmeans聚类与可视化词云，运行时需要改一下里面的csv文件位置
+最好是用anaconda3来跑
